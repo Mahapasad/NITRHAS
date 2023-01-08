@@ -9,7 +9,7 @@ function validate()
 
     
     
-        alert("Nacho BC");
+        alert("Login Successful");
        
         
     }
